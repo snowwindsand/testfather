@@ -13,3 +13,5 @@ var duningtest;
 
   duningtest.dn2 = dn2;
 })(duningtest || (duningtest = {}));
+
+export { duningtest };

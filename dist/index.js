@@ -1,6 +1,6 @@
 'use strict';
 
-var duningtest;
+Object.defineProperty(exports, '__esModule', { value: true });
 
 (function (duningtest) {
   function dn1(msg) {
@@ -14,4 +14,4 @@ var duningtest;
   }
 
   duningtest.dn2 = dn2;
-})(duningtest || (duningtest = {}));
+})(exports.duningtest || (exports.duningtest = {}));
