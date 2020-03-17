@@ -1,0 +1,22 @@
+{
+  "name": "ysy",
+  "version": "0.0.1",
+  "description": "ysy components",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "/ysy",
+  "scripts": {
+    "dev": "father doc dev",
+    "build": "father build"
+  },
+  "peerDependencies": {},
+  "devDependencies": {
+    "father": "^2.16.0",
+    "typescript": "^3.3.3"
+  },
+  "license": "MIT"
+}
