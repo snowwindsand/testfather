@@ -1,6 +1,6 @@
 {
   "name": "ysy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ysy components",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
